@@ -2,7 +2,7 @@
 
 **` Estudante de desenvolvimento web `**
 
-Olá! Meu nome é Rafael Gouveia, sou estudante do Ensino Médio em São José do Rio Preto (SP). Sempre fui guiado por criatividade e curiosidade, o que me levou à tecnologia. Participei do Galera Tech, onde aprofundei meus conhecimentos em desenvolvimento web, lógica de programação e trabalho em equipe, criando projetos reais. Atualmente estou em formação como desenvolvedor web, com grande interesse por Inteligência Artificial e seu impacto no cotidiano. Sou proativo, gosto de aprender coisas novas e trabalhar em equipe. Fora do código, curto música (sou fã da Laufey 🎶), design e videogames 🎮. Aqui no GitHub, compartilho meus projetos, mostrando meu processo de aprendizado, evolução e vontade de construir com propósito.
+Olá! Meu nome é Rafael Gouveia, sou estudante do Ensino Médio em **`São José do Rio Preto`** (SP). Sempre fui guiado por criatividade e curiosidade, o que me levou à tecnologia. Participei do **`Galera Tech`**, onde aprofundei meus conhecimentos em desenvolvimento web, lógica de programação e trabalho em equipe, criando projetos reais. Atualmente estou em formação como desenvolvedor web, com grande interesse por **`Inteligência Artificial`** e seu impacto no cotidiano. Sou proativo, gosto de aprender coisas novas e trabalhar em equipe. Fora do código, curto **`música`** (sou fã da Laufey 🎶), **`design`** e **`videogames`** 🎮. Aqui no GitHub, compartilho meus projetos, mostrando meu processo de aprendizado, evolução e vontade de construir com propósito.
 
 
 ---
